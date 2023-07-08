@@ -1,0 +1,11 @@
+:root{
+    --_text-color: hsla(0, 0%, 0%, 0.92);
+    --_text-color-light: hsl(205, 10%, 100%);
+    --_background-color: hsl(205, 15%, 95%);
+    --_background-color-dark: hsl(0, 0%, 0%);
+    --_background-color-accent: hsl(200, 40%, 65%);
+    --_accent-color: hsl(215, 48%, 51%);
+    --_accent-color-dark: hsl(245, 63%, 36%);
+    --_accent-color-darker: hsl(245, 86%, 14%);
+    --_scroll-track: hsl(0, 0%, 75%);
+}
